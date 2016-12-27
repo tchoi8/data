@@ -17,6 +17,13 @@ Goal: Together with the researchers and fellows at the Data and Society, I’d l
 Logistics: I want to publish a bi-monthly graphic novel on the Data & Society website. I would like to base the narrative on the topics I explored in my class “Poetics and Politics of Computation.” I want to participate in lectures and workshops at the at the Data & Society. I think my participation in the public events and internal workshops will enrich the narrative and back the scientific facts. I’d like to work with cohorts of the Data & Society fellows as well as the distinguished alumni.   
 
 
+[1]:  Shannon, Claude Elwood, and Warren Weaver. The Mathematical Theory of Communication. Urbana: U of Illinois, 1949. Print. 
+
+[2]: Thornham, Sue, Caroline Bassett, and Paul Marris. Media studies: a reader. New York: New York University Press, 2009. Print.
+
+[3]:  Siebers, Tobin. Disability Theory. Ann Arbor: U of Michigan, 2008. 48. Print.
+
+
 ##Topics 
 body, biopolitics, privacy, graphic novel
 
@@ -39,9 +46,4 @@ Description:  Signing Coders is a series of workshops on creative expression wit
 Link:  [https://tchoi8.github.io/poetic-computation-16/slides/#/](https://tchoi8.github.io/poetic-computation-16/slides/#/) 
 
 Description: Poetics and politics of computation is a class for students to build conceptual tools and critical perspective for art and technology. In this class, students will learn about the history and critical theory of art and contemporary issues with a specific focus on the cultural significance of computation. Class at the School for poetic computation.
-
-[1]:  Shannon, Claude Elwood, and Warren Weaver. The Mathematical Theory of Communication. Urbana: U of Illinois, 1949. Print. 
-
-[2]: Thornham, Sue, Caroline Bassett, and Paul Marris. Media studies: a reader. New York: New York University Press, 2009. Print.
-
-[3]:  Siebers, Tobin. Disability Theory. Ann Arbor: U of Michigan, 2008. 48. Print.
+ 
